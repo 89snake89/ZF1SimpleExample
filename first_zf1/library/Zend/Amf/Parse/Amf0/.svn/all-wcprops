@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Amf/Parse/Amf0
+END
+Serializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Amf/Parse/Amf0/Serializer.php
+END
+Deserializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Amf/Parse/Amf0/Deserializer.php
+END

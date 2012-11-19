@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager
+END
+ListenerAggregate.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/ListenerAggregate.php
+END
+EventManagerAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/EventManagerAware.php
+END
+GlobalEventManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/GlobalEventManager.php
+END
+EventCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/EventCollection.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/Exception.php
+END
+SharedEventManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/SharedEventManager.php
+END
+SharedEventCollectionAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/SharedEventCollectionAware.php
+END
+ResponseCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/ResponseCollection.php
+END
+EventManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/EventManager.php
+END
+Event.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/Event.php
+END
+SharedEventCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/SharedEventCollection.php
+END
+StaticEventManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/StaticEventManager.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/Filter.php
+END
+EventDescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/EventDescription.php
+END
+FilterChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/EventManager/FilterChain.php
+END

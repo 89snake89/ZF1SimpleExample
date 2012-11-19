@@ -1,0 +1,44 @@
+
+		<script>
+		$(document).ready(function(){
+			
+			$("#formIscriviti").validate({
+				rules:{
+					Nome:{
+						required:true,
+						digits:false
+					},
+					Cognome:{
+						required:true,
+						digits:false
+					},
+					Mail:{
+						required:true,
+						email:true
+					},
+					Psw:{
+						required:true
+					}
+				}
+			});
+		});
+		</script>
+		<title>Form d'iscrizione</title>
+
+	<h2>Iscriviti:</h2>
+	<?php 
+		echo $this->userform;
+	?>
+ 	<?php 
+ 		if(isset($this->nuovoIscritto))
+ 		{
+ 			echo "Welcome " .$this->nuovoIscritto;
+ 		}
+ 	?>	
+ 	<?php 
+ 		if(isset($this->errore))
+ 		{
+ 			echo $this->errore;
+ 		}
+ 	?>
+

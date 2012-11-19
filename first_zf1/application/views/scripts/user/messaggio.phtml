@@ -1,0 +1,14 @@
+<html>
+	<head><title>Lettura del messaggio</title></head>
+	<body>
+		<h2>Messaggio</h2>
+		<?php 
+			echo "<h3>Messaggio ricevuto da:</h3>";
+			echo "<h4>". $this->mittente ."</h4>";
+			echo "<h3>Messaggio:</h3>";
+			echo "<h4>". $this->messaggio ."</h4>";
+
+			echo $this->form;
+		?>
+	</body>
+</html>

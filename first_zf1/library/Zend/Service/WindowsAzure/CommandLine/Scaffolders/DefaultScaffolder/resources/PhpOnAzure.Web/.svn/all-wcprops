@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/Web.config
+END
+diagnostics.wadcfg
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/diagnostics.wadcfg
+END

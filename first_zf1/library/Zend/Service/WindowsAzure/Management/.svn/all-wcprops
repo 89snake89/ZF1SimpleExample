@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management
+END
+OperationStatusInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/OperationStatusInstance.php
+END
+StorageServiceInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/StorageServiceInstance.php
+END
+SubscriptionOperationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/SubscriptionOperationInstance.php
+END
+AffinityGroupInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/AffinityGroupInstance.php
+END
+HostedServiceInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/HostedServiceInstance.php
+END
+LocationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/LocationInstance.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/Exception.php
+END
+ServiceEntityAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/ServiceEntityAbstract.php
+END
+OperatingSystemInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/OperatingSystemInstance.php
+END
+OperatingSystemFamilyInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/OperatingSystemFamilyInstance.php
+END
+DeploymentInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/DeploymentInstance.php
+END
+CertificateInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/WindowsAzure/Management/CertificateInstance.php
+END

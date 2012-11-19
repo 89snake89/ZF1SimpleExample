@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/Rackspace/Files
+END
+ContainerList.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/Rackspace/Files/ContainerList.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/Rackspace/Files/Exception.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/Rackspace/Files/Container.php
+END
+ObjectList.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/Rackspace/Files/ObjectList.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Service/Rackspace/Files/Object.php
+END

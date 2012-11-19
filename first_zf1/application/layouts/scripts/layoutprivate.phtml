@@ -1,0 +1,44 @@
+<html>
+	<head><title>Personal page</title></head>
+	<body>
+		<h2>Personal page</h2>
+		<h3>
+			Ciao  
+			<?php 
+				$user = Application_Model_User::getUserById(Application_Model_User::isLogged());
+				echo $user->getFullName();
+			?>
+		</h3>
+		<h4>
+		<div>
+			<a href="<?php echo $this->url(
+		            array('controller'=>'mail'),
+		            'default',
+		            true) ?>">Invia una mail!</a></div>
+		<div>
+			<a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'index'),
+		            'default',
+		            true) ?>">Torna!</a>
+		</div>            
+		</h4>
+		<hr>
+		<div>
+			<a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'ricevuti'),
+		            'default',
+		            true) ?>">Messaggi ricevuti</a>
+		</div>  
+		<div>
+			<a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'inviati'),
+		            'default',
+		            true) ?>">Messaggi inviati</a>
+		</div> 
+		<hr> 
+		<?php 
+			echo $this->header;
+			echo $this->layout()->content; 
+		?>	
+	</body>
+</html>

@@ -1,0 +1,20 @@
+<?php echo $this->doctype() . "\n" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<?php echo $this->headMeta() . "\n" ?>
+<?php echo $this->headTitle() . "\n" ?>
+<?php echo $this->headLink() . "\n" ?>
+<?php echo $this->headStyle() . "\n" ?>
+<?php echo $this->headScript() . "\n" ?>
+</head>
+<body onload="pageRenderTime()">
+	<?php echo $this->render('header.phtml');?>
+	<div class="container main">
+	    <div class="indexDashboard">
+	        <?php echo $this->layout()->content . "\n" ?>
+	    </div>
+	</div>
+	<?php echo $this->render('footer.phtml');?>
+	<?php echo $this->inlineScript() . "\n" ?>
+</body>
+</html>

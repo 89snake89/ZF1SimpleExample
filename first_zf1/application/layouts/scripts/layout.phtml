@@ -1,0 +1,36 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<?php echo $this->headMeta() . "\n" ?>
+	<?php echo $this->headTitle() . "\n" ?>
+	<?php echo $this->headLink() . "\n" ?>
+	<?php echo $this->headStyle() . "\n" ?>
+	<?php echo $this->headScript() . "\n" ?>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" />
+    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+</head>
+<body>
+<div id="header" style="background-color: #EEEAAE; height: 30px;">
+    <div id="header-logo" style="float: left">
+        <b>ZF Quickstart Application</b>
+    </div>
+    <div id="header-navigation" style="float: right">
+
+    </div>
+</div>
+
+<div><a href="<?php echo $this->url(
+            array('controller'=>'user', 'action' => 'iscriviti'),
+            'default',
+            true) ?>">Iscriviti</a></div>
+ <div><a href="<?php echo $this->url(
+            array('controller'=>'user', 'action' => 'login'),
+            'default',
+            true) ?>">LogIn</a></div>
+
+<?php 
+	echo $this->layout()->content; 
+	echo $this->header;
+	echo $this->inlineScript() . "\n";
+?>
+</body>
+</html>

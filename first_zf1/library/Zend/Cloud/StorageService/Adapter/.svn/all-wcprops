@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Cloud/StorageService/Adapter
+END
+Rackspace.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Cloud/StorageService/Adapter/Rackspace.php
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Cloud/StorageService/Adapter/S3.php
+END

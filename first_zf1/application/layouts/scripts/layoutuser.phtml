@@ -1,0 +1,52 @@
+<html>
+	<head><title>User's page!</title></head>
+	<body>
+		<h2>User's page</h2>
+		<h3>
+			Benvenuto/a: 
+			<?php 
+				$user = Application_Model_User::getUserById(Application_Model_User::isLogged());
+				echo $user->getFullName();
+			?>
+		</h3>
+		<h4>
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'logoff'),
+		            'default',
+		            true) ?>">Esci!</a></div>
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'private'),
+		            'default',
+		            true) ?>">Pagina personale</a></div>
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'cambiapsw'),
+		            'default',
+		            true) ?>">Cambia password</a></div>            
+		</h4>
+		<hr>
+		
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'auto'),
+		            'default',
+		            true) ?>">Inserisci auto</a></div>
+		
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'vendi'),
+		            'default',
+		            true) ?>">Vendi auto</a></div>
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'compra'),
+		            'default',
+		            true) ?>">Compra un auto</a></div>
+		            
+		<div><a href="<?php echo $this->url(
+		            array('controller'=>'user', 'action' => 'assicurati'),
+		            'default',
+		            true) ?>">Assicura un auto</a></div>
+		<?php 
+			echo $this->header;
+			echo $this->layout()->content; 
+			
+		?>	
+	</body>
+</html>

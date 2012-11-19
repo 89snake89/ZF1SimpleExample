@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/Exception.php
+END
+SplAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/SplAutoloader.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/Autoloader.php
+END
+StandardAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/StandardAutoloader.php
+END
+ClassMapAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/ClassMapAutoloader.php
+END
+PluginLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/PluginLoader.php
+END
+AutoloaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/25050/standard/tags/release-1.12.0/library/Zend/Loader/AutoloaderFactory.php
+END
